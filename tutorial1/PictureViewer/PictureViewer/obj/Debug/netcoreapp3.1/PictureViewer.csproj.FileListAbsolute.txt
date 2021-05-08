@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.exe
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.deps.json
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.runtimeconfig.json
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.runtimeconfig.dev.json
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.dll
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\bin\Debug\netcoreapp3.1\PictureViewer.pdb
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.Form1.resources
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.AssemblyInfo.cs
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.dll
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.pdb
+C:\Users\dell\source\repos\PictureViewer\PictureViewer\obj\Debug\netcoreapp3.1\PictureViewer.genruntimeconfig.cache
