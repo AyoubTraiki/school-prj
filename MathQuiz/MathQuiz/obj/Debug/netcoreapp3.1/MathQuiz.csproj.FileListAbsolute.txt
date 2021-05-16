@@ -1,0 +1,15 @@
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.exe
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.deps.json
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.runtimeconfig.json
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.runtimeconfig.dev.json
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.dll
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\bin\Debug\netcoreapp3.1\MathQuiz.pdb
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.csprojAssemblyReference.cache
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.Form1.resources
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.AssemblyInfo.cs
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.dll
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.pdb
+C:\Users\dell\source\repos\MathQuiz\MathQuiz\obj\Debug\netcoreapp3.1\MathQuiz.genruntimeconfig.cache
