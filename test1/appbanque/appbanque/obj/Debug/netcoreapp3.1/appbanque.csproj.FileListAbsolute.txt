@@ -1,0 +1,11 @@
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.addclient.resources
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.addcomptecourant.resources
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.addcompteepargne.resources
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.authentification.resources
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.convertisseur.resources
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.Form1.resources
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.csproj.GenerateResource.cache
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.AssemblyInfo.cs
+C:\Users\dell\source\repos\appbanque\appbanque\obj\Debug\netcoreapp3.1\appbanque.csproj.CoreCompileInputs.cache
