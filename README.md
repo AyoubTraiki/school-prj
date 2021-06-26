@@ -1,10 +1,4 @@
 # school-prj
-░░░░░█▀▀▀░█▀▀█░█▀▀▀░█░█░░░░░░
-░░░░░█▀▀░░█▀▀█░▀▀▀█░▀█▀░░░░░░
-░░░░░▀▀▀▀░▀░░▀░▀▀▀▀░░▀░░░░░░░
-▀█▀░█░█░▀█▀░█▀█░█▀▀▄░█░█▀▀█░█░░
-░█░░█░█░░█░░█░█░█▀▀█░█░█▀▀█░█░░
-░▀░░▀▀▀░░▀░░▀▀▀░▀░░▀░▀░▀░░▀░▀▀░
 ## 00)-bank
 #############small code using c++
 ## 01)-date and hour 
@@ -15,8 +9,6 @@
 ######## (using c# v2)
 ## 04)-bank 
 ############# (using c# final)
-## 05)-etudiant et letudiant
-############ tp about how to use state use state props(react)
 ## 06)- Picture Viewer 
 ######## c# winsform microsoft tutorial 1
 ## 07)- Maths Quiz 
