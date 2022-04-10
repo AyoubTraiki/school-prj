@@ -1,0 +1,5 @@
+package separateur;
+
+public class MontantInvalideException {
+
+}
